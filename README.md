@@ -73,3 +73,8 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+## Screenshots
+#### Activity 1
+![Screenshot 2024-09-19 at 4 45 51 PM](https://github.com/user-attachments/assets/04952436-c073-483b-9aad-0362b869b298)
+
