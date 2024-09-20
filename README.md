@@ -86,4 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 <img width="1440" alt="Screenshot 2024-09-20 at 3 28 06 PM" src="https://github.com/user-attachments/assets/e7fe6a54-3748-4b4b-8108-b9b942bbc776">
 <img width="1440" alt="Screenshot 2024-09-20 at 3 27 59 PM" src="https://github.com/user-attachments/assets/ae2e70c4-b7c6-4bf0-acfb-81d586d38427">
 
+#### Activity 4
+<img width="1440" alt="Screenshot 2024-09-20 at 4 12 21 PM" src="https://github.com/user-attachments/assets/1ffd67cf-096f-4855-a2c8-b12c132c5ae8">
+<img width="1440" alt="Screenshot 2024-09-20 at 4 20 33 PM" src="https://github.com/user-attachments/assets/60174109-0156-4c07-8660-abd588cd707a">
 
